@@ -206,6 +206,4 @@ fds/
 
 ---
 
-<p align="center">
-  Built with ❤️ for <strong>Foundations of Data Science</strong>
-</p>
+
